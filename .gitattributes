@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.ttml linguist-language=XML
+*.ttml diff=xml
+*.ttml text
